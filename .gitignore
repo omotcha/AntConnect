@@ -36,3 +36,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### keys ###
+src/main/resources/
+
+### privacy-sensitive
+src/privacy-sensitive
+src/main/java/org/example/DemoSample.java
